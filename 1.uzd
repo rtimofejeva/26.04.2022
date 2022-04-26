@@ -1,0 +1,7 @@
+a = float(input("Ievadi skaitļu: "))
+if a/2:
+  print("Pāra skaitlis!")
+elif a == 0:
+  print("Skaitlis ir nulle!")
+else:
+  print("Nepāra skaitlis!")
